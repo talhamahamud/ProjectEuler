@@ -16,11 +16,7 @@ python 1.py
 ```
 
 ## Progress
-| Problem | Status |
-|----------|---------|
-| 001 | ✅ Done |
-| 002 | ✅ Done |
-| 003 | ⏳ In Progress |
+Solved Problem = <span style="color: red;">4</span> out of <span style="color: green;">965</span>
 
 ## Goal
 Solve all Project Euler problems and improve my mathematical and programming skills.
