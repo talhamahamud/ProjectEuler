@@ -16,7 +16,7 @@ python 1.py
 ```
 
 ## Progress
-Solved Problem = <span style="color: red;">4</span> out of <span style="color: green;">965</span>
+Solved Problem = <span style="color: red;">4</span> out of <span style="color: green;">965</span>.
 
 ## Goal
 Solve all Project Euler problems and improve my mathematical and programming skills.
